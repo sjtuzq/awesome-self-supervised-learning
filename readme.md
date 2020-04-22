@@ -1,6 +1,6 @@
 paperlist for self-supervised learning, keep updating...
 
-###Pretext task
+### Pretext task
 **Denoising auto-encoder**
 * [Extracting and composing robust features with denoising autoencoders](https://dl.acm.org/doi/10.1145/1390156.1390294). Pascal Vincent, Hugo Larochelle, Yoshua Bengio, and Pierre-Antoine Manzagol. In ICML, 2008.
 
@@ -57,7 +57,7 @@ paperlist for self-supervised learning, keep updating...
 * [Shuffle and learn: unsupervised learning using temporal order verification](https://arxiv.org/abs/1603.08561). Ishan Misra, C Lawrence Zitnick, and Martial Hebert. In ECCV, 2016.
 
 
-###Loss functions
+### Loss functions
 **Handcraft loss(predefined categories)**
 * [Unsupervised visual representation learning by context prediction](https://arxiv.org/abs/1505.05192). Carl Doersch, Abhinav Gupta, and Alexei A Efros. In ICCV, 2015.
 * [Colorful image colorization](https://arxiv.org/abs/1603.08511). Richard Zhang, Phillip Isola, and Alexei A Efros.  In ECCV, 2016.
@@ -87,7 +87,7 @@ paperlist for self-supervised learning, keep updating...
 * [Adversarial feature learning](https://arxiv.org/abs/1605.09782). Jeff Donahue, Philipp Krahenbuhl, and Trevor Darrell. In ICLR, 2017.
 * [Large scale adversarial representation learning](https://arxiv.org/abs/1907.02544). Jeff Donahue and Karen Simonyan. arXiv:1907.02544, 2019
 
-###Predictive coding:
+### Predictive coding:
 * [Predictive coding](https://ieeexplore.ieee.org/document/1055126) Peter Elias. IEEE Transactions on Information Theory, 1(1):16–24, 1955
 * [Adaptive predictive coding of speech signals](https://ieeexplore.ieee.org/document/6769531). Bishnu S Atal and Manfred R Schroeder. The Bell System Technical Journal, 49(8):1973–1986, 1970
 * [Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects](https://www.nature.com/articles/nn0199_79). Rajesh PN Rao and Dana H Ballard. Nature neuroscience, 2(1):79, 1999.
@@ -99,7 +99,7 @@ paperlist for self-supervised learning, keep updating...
 * [Learning to generate reviews and discovering sentiment](https://arxiv.org/abs/1704.01444). Alec Radford, Rafal Jozefowicz, and Ilya Sutskever.  arXiv preprint arXiv:1704.01444, 2017.
 
 
-###Contrastive learning:
+### Contrastive learning:
 **Triplet loss**
 * [Learning a similarity metric discriminatively, with application to face verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf). Sumit Chopra, Raia Hadsell, and Yann LeCun. In Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on, volume 1, pages 539–546. IEEE, 2005.
 * [Distance metric learning for large margin nearest neighbor classification](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf). Kilian Q Weinberger and Lawrence K Saul. Journal of Machine Learning Research, 10(Feb):207–244, 2009.
@@ -109,7 +109,7 @@ paperlist for self-supervised learning, keep updating...
 * [Unsupervised feature extraction by time-contrastive learning and nonlinear ica](https://papers.nips.cc/paper/6395-unsupervised-feature-extraction-by-time-contrastive-learning-and-nonlinear-ica).Aapo Hyvarinen and Hiroshi Morioka. Advances in Neural Information Processing Systems 29, pages 3765–3773. Curran Associates, Inc., 2016.
 
 
-###Self-supervised on videos:
+### Self-supervised on videos:
 **Region-level**
 * [Learning correspondence from the cycle-consistency of time](https://arxiv.org/abs/1903.07593). X. Wang, A. Jabri, and A. A. Efros.  In CVPR, 2019
 * [Unsupervised deep tracking](https://arxiv.org/abs/1904.01828). N. Wang, Y. Song, C. Ma, W. Zhou, W. Liu, and H. Li. In CVPR, 2019
